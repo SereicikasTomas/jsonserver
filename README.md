@@ -1,5 +1,4 @@
 ## Fake REST API.
----
 
 Run locally
 
