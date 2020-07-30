@@ -1,0 +1,32 @@
+{
+  "energy-drinks": [
+    {
+      "id": "berry-blue",
+      "name": "BERRY BLUE",
+      "details": "A mix of sweet fruit flavors and the intense rush of our energy blend. Grab a can and get invigorated with every sip.",
+      "price": "$2.99",
+      "image": "https://assets.website-files.com/5d7fc479cad5171297d27a60/5d81375545727a5d4de1618a_3d_energy_blue_1.png"
+    },
+    {
+      "id": "frost",
+      "name": "FROST",
+      "details": "We call it The OG, but it's better known as Frost. A light citrus taste with a crisp and clean finish, you can never go wrong with the original 3D Energy Drink.",
+      "price": "$2.99",
+      "image": "https://assets.website-files.com/5d7fc479cad5171297d27a60/5d81923ae7908ebb8d56cdc0_3d_energy_white_1.png"
+    },
+    {
+      "id": "citrus-dew",
+      "name": "CITRUS DEW",
+      "details": "We kept the citrus blend light here, but never skimp on the energy. Enjoy a refreshing finish with all the rush you expect from 3D.",
+      "price": "$2.99",
+      "image": "https://assets.website-files.com/5d7fc479cad5171297d27a60/5d8137966437b308390d6bd3_3d_energy_green_1.png"
+    },
+    {
+      "id": "liberty-pop",
+      "name": "LIBERTY POP",
+      "details": "A cyclone of deliciousness. Take yourself back to your childhood with the most patriotic of flavors.",
+      "price": "$2.99",
+      "image": "https://assets.website-files.com/5d7fc479cad5171297d27a60/5d81376f6437b372640d6b6e_3d_energy_bomb_0000.png"
+    }
+  ]
+}
