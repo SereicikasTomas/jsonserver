@@ -30,9 +30,13 @@
     }
   ],
   "vouchers": [
-    {"id":1,
-     "forMonth": 1
-    },{{"id":2,
-     "forMonth": 2
-    }}]
+    {
+      "id":1,
+      "forMonth": 1
+    },
+    {
+      "id":2,
+      "forMonth": 2
+    }
+  ]
 }
