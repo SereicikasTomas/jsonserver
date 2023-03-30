@@ -132,7 +132,7 @@
       "appliedAt": "NULL",
       "expiredAt": "NULL",
       "createdAt": "NULL",
-      "status": "open",
+      "status": "draft",
       "updatedAt": "2023-03-30 06:06:00.396755+00"
     },
     {
